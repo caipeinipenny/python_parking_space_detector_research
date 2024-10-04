@@ -19,5 +19,5 @@ The Parking Space Detection project is designed to help monitor parking spaces i
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/parking-space-detection.git
-cd parking-space-detection
+git clone https://github.com/caipeinipenny/python_parking_space_detector_research.git
+cd python_parking_space_detector_research
