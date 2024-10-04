@@ -18,6 +18,9 @@ The Parking Space Detection project is designed to help monitor parking spaces i
 ## Installation
 Clone the repository:
 
+## Acknowledgments
+Thanks to the OpenCV and NumPy communities for their invaluable libraries and support.
+
 ```bash
 git clone https://github.com/caipeinipenny/python_parking_space_detector_research.git
 cd python_parking_space_detector_research
