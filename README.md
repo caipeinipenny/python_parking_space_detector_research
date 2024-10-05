@@ -19,9 +19,9 @@ The Parking Space Detection project is designed to help monitor parking spaces i
 Clone the repository:
 
 ## Acknowledgments
-Thanks to the OpenCV and NumPy communities for their invaluable libraries and support.
-Thanks to Dingyan (Gezhi High School)
-Thnaks to Easiest Method (github contributor)
+- **Thanks to the OpenCV and NumPy communities for their invaluable libraries and support.**
+- **Thanks to Dingyan (Gezhi High School)**
+- **Thnaks to Easiest Method (github contributor)**
 
 ## environment
 - **Python version**: 3.9.19 (main, May  6 2024, 20:12:36) [MSC v.1916 64 bit (AMD64)]
