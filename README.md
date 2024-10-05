@@ -22,9 +22,9 @@ Clone the repository:
 Thanks to the OpenCV and NumPy communities for their invaluable libraries and support.
 
 ## environment
-Python version: 3.9.19 (main, May  6 2024, 20:12:36) [MSC v.1916 64 bit (AMD64)]
-Numpy version: 1.23.0
-cv2 version: 4.8.0
+-Python version: 3.9.19 (main, May  6 2024, 20:12:36) [MSC v.1916 64 bit (AMD64)]
+-Numpy version: 1.23.0
+-cv2 version: 4.8.0
 
 ```bash
 git clone https://github.com/caipeinipenny/python_parking_space_detector_research.git
